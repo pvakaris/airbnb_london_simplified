@@ -1,6 +1,6 @@
-# Simplified AirBnb London for offline use
+# Simplified AirBnb London application
 
-First JavaFX project made for learning purposes. Original repository is made private and is hosted by a github enterprise account.
+First JavaFX project made for learning purposes. Original repository is made private and is hosted by a github enterprise account. Meant for offline use.
 
 *** 
 
