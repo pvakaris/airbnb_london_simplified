@@ -1,0 +1,31 @@
+/**
+ * Stylesheet for the registration and login windows.
+ *
+ * @author Vakaris Paulavičius (Student number: 20062023)
+ * @version 1.0
+ */
+
+#header-label {
+    -fx-padding: 20, 0, 0, 0;
+    -fx-font-size: 25;
+    -fx-font-family: Athelas;
+    -fx-underline: true;
+}
+
+#finish-login-button {
+    -fx-alignment: CENTER;
+    -fx-font-size: 15;
+    -fx-font-family: Athelas;
+}
+
+
+.label-textField-pair {
+    -fx-alignment: CENTER;
+    -fx-padding: 10, 10, 10, 10;
+    -fx-font-size: 15;
+    -fx-font-family: "Al Bayan";
+}
+
+.text-field {
+    -fx-padding: 1, 1, 1, 1;
+}

@@ -1,0 +1,12 @@
+.button {
+	-fx-shape: "M 83 72 L 83 24 L 41.5 0 L 0 24 L 0 72 L 41.5 96 Z";
+	-fx-border-color: #000000;
+}
+
+.button:hover {
+	-fx-border-color: #00b1dd;
+}
+
+.offset-borough {
+	-fx-translate-x: 35.71;
+}

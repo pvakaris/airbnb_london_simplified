@@ -1,0 +1,59 @@
+.pane {
+    -fx-background-color: #FFB6C1;
+    -fx-border-color: black;
+}
+
+.button-ctrl {
+  -fx-background-color: white;
+  -fx-border: none;
+  -fx-color: #ADD8E6;
+  -fx-padding: 5px 32px;
+  -fx-text-align: center;
+  -fx-text-decoration: none;
+  -fx-display: inline-block;
+  -fx-font-size: 16px;
+}
+
+.choice-box {
+  -fx-background-color: white;
+  -fx-mark-color: #ADD8E6;
+}
+
+/**
+ * Styling of components that are related to user functionality
+ */
+
+.user-button {
+  -fx-font-size: 14;
+  -fx-font-family: "Al Bayan";
+  -fx-border-radius: 0;
+  -fx-max-height: INFINITY;
+}
+
+.user-pane {
+  -fx-padding: 10, 10, 10, 10;
+}
+
+/**
+* Styling of the welcome panel.
+*/
+
+.label-title{
+    -fx-font-size: 55px;
+    -fx-font-family: Serif;
+    -fx-text-fill: #2787a7;
+  }
+
+.label-description{
+  -fx-font-size: 24px;
+  -fx-font-family: "Arial";
+  -fx-text-fill: #ce5916;
+
+}
+
+.label-feedback{
+  -fx-font-size: 25px;
+  -fx-font-family: Bold;
+  -fx-text-fill: #bd8308;
+
+}

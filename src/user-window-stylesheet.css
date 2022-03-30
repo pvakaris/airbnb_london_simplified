@@ -1,0 +1,41 @@
+/**
+ * Stylesheet for the user window.
+ *
+ * @author Vakaris Paulavičius (Student number: 20062023)
+ * @version 1.0
+ */
+
+#header-label {
+    -fx-padding: 20, 0, 0, 0;
+    -fx-font-size: 25;
+    -fx-font-family: Athelas;
+    -fx-underline: true;
+}
+
+.answer-label {
+    -fx-font-size: 15;
+    -fx-font-family: "Al Bayan";
+    -fx-text-fill: ORANGE;
+}
+
+.details-section {
+    -fx-alignment: CENTER;
+    -fx-padding: 5, 5 5, 5;
+    -fx-font-size: 15;
+    -fx-font-family: "Al Bayan";
+}
+
+#hide-show-button {
+    -fx-font-size: 12;
+    -fx-font-family: Athelas;
+}
+
+.label {
+    -fx-font-size: 15;
+    -fx-font-family: "Al Bayan";
+}
+
+.list-view {
+    -fx-font-size: 15;
+    -fx-font-family: "Al Bayan";
+}
